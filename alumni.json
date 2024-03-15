@@ -1,0 +1,275 @@
+{
+    "alumni": [
+      {
+        "nama": "John Doe",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.5
+      },
+      {
+        "nama": "Jane Smith",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.8
+      },
+      {
+        "nama": "Michael Johnson",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.2
+      },
+      {
+        "nama": "Emily Davis",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "Network",
+        "ipk": 3.9
+      },
+      {
+        "nama": "William Brown",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.6
+      },
+      {
+        "nama": "Olivia Miller",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.7
+      },
+      {
+        "nama": "Ethan Wilson",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.4
+      },
+      {
+        "nama": "Sophia Anderson",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "Network",
+        "ipk": 3.8
+      },
+      {
+        "nama": "Daniel Taylor",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.1
+      },
+      {
+        "nama": "Isabella Clark",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.9
+      },
+      {
+        "nama": "Sophia Johnson",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.3
+      },
+      {
+        "nama": "Ethan Williams",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.6
+      },
+      {
+        "nama": "Olivia Smith",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Network",
+        "ipk": 3.2
+      },
+      {
+        "nama": "William Taylor",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.7
+      },
+      {
+        "nama": "Mia Wilson",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.4
+      },
+      {
+        "nama": "James Brown",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.9
+      },
+      {
+        "nama": "Olivia Davis",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Network",
+        "ipk": 3.5
+      },
+      {
+        "nama": "Daniel Wilson",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.8
+      },
+      {
+        "nama": "Emma Taylor",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.2
+      },
+      {
+        "nama": "Mia Johnson",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.7
+      },
+      {
+        "nama": "Ethan Smith",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Network",
+        "ipk": 3.3
+      },
+      {
+        "nama": "Olivia Johnson",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.6
+      },
+      {
+        "nama": "William Miller",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.1
+      },
+      {
+        "nama": "Ethan Brown",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.5
+      },
+      {
+        "nama": "Sophia Davis",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Network",
+        "ipk": 3.9
+      },
+      {
+        "nama": "Daniel Smith",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.4
+      },
+      {
+        "nama": "Isabella Williams",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.8
+      },
+      {
+        "nama": "Sophia Brown",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.3
+      },
+      {
+        "nama": "William Davis",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Network",
+        "ipk": 3.7
+      },
+      {
+        "nama": "Olivia Wilson",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.2
+      },
+      {
+        "nama": "Daniel Johnson",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.6
+      },
+      {
+        "nama": "Isabella Davis",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.1
+      },
+      {
+        "nama": "James Wilson",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Network",
+        "ipk": 3.5
+      },
+      {
+        "nama": "Sophia Wilson",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.9
+      },
+      {
+        "nama": "William Johnson",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.4
+      },
+      {
+        "nama": "Ethan Miller",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.8
+      },
+      {
+        "nama": "Olivia Taylor",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Network",
+        "ipk": 3.3
+      },
+      {
+        "nama": "Daniel Miller",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.6
+      },
+      {
+        "nama": "Sophia Miller",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.2
+      },
+      {
+        "nama": "William Smith",
+        "tahun_lulus": 2022,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.7
+      },
+      {
+        "nama": "Mia Brown",
+        "tahun_lulus": 2019,
+        "profil_lulusan": "Network",
+        "ipk": 3.1
+      },
+      {
+        "nama": "Ethan Davis",
+        "tahun_lulus": 2020,
+        "profil_lulusan": "UI/UX",
+        "ipk": 3.5
+      },
+      {
+        "nama": "Olivia Clark",
+        "tahun_lulus": 2018,
+        "profil_lulusan": "Intelligent Software Development",
+        "ipk": 3.9
+      },
+      {
+        "nama": "Daniel Brown",
+        "tahun_lulus": 2021,
+        "profil_lulusan": "Data Administrator",
+        "ipk": 3.4
+      },
+      {
+        "nama": "Isabella Johnson",
+        "tahun_lulus": 2017,
+        "profil_lulusan": "Network",
+        "ipk": 3.8
+      }
+    ]
+  }
+  
