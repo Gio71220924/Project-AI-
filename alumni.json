@@ -269,6 +269,66 @@
         "tahun_lulus": 2017,
         "profil_lulusan": "Network",
         "ipk": 3.8
+      },
+      {
+        "nama":"Sigit Rendang",
+        "tahun_lulus":2021,
+        "profil_lulusan":"Network",
+        "ipk":3.5
+      },
+      {
+        "nama":"Slamet Kopling",
+        "tahun_lulus":2017,
+        "profil_lulusan":"Data Administrator",
+        "ipk":4.0
+      },
+      {
+        "nama":"Charles Leclerc",
+        "tahun_lulus":2017,
+        "profil_lulusan":"UI/UX",
+        "ipk":3.9
+      },
+      {
+        "nama":"Valterri Bottas",
+        "tahun_lulus":2022,
+        "profil_lulusan":"Intelligent Software Development",
+        "ipk":3.8
+      },
+      {
+        "nama":"Nikita Mazepin",
+        "tahun_lulus":2019,
+        "profil_lulusan":"Data Administrator",
+        "ipk":3.2
+      },
+      {
+        "nama":"Nico Rosberg",
+        "tahun_lulus":2015,
+        "profil_lulusan":"Network",
+        "ipk":3.6
+      },
+      {
+        "nama":"Fernando Alonso",
+        "tahun_lulus":2010,
+        "profil_lulusan":"Intelligent Software Development",
+        "ipk":3.8
+      },
+      {
+        "nama":"Carlos Sainz",
+        "tahun_lulus":2014,
+        "profil_lulusan":"UI/UX",
+        "ipk":3.6
+      },
+      {
+        "nama":"Max Verstappen",
+        "tahun_lulus":2013,
+        "profil_lulusan":"Data Administrator",
+        "ipk":4.0
+      },
+      {
+        "nama":"George Russel",
+        "tahun_lulus":2020,
+        "profil_lulusan":"Network",
+        "ipk":3.4
       }
     ]
   }
