@@ -1,0 +1,654 @@
+{
+    "alumni": [
+        {
+            "nama": "John Doe",
+            "tahun_lulus": 2019,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.5,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 90,
+                "Desain dan Evaluasi Antarmuka": 78,
+                "Desain Eksperimental": 75,
+                "Pemodelan Proses Bisnis": 86,
+                "Test Engineering": 84
+            }
+        },
+        {
+            "nama": "Jane Smith",
+            "tahun_lulus": 2020,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 95,
+                "Analisis Data": 88,
+                "Machine Learning": 92,
+                "Data Mining": 87,
+                "Big Data Analytics": 90
+            }
+        },
+        {
+            "nama": "Michael Johnson",
+            "tahun_lulus": 2018,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 92,
+                "Pemrograman Lanjut": 85,
+                "Basis Data": 88,
+                "Sistem Operasi": 86,
+                "Pengembangan Web": 90
+            }
+        },
+        {
+            "nama": "Emily Davis",
+            "tahun_lulus": 2021,
+            "profil_lulusan": "NSS",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 90,
+                "Forensik Komputer": 88,
+                "Kriptografi": 85,
+                "Pengujian Penetrasi": 89,
+                "Manajemen Keamanan Informasi": 87
+            }
+        },
+        {
+            "nama": "Robert Brown",
+            "tahun_lulus": 2017,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 95,
+                "Desain dan Evaluasi Antarmuka": 92,
+                "Desain Eksperimental": 88,
+                "Pemodelan Proses Bisnis": 90,
+                "Test Engineering": 94
+            }
+        },
+        {
+            "nama": "Sarah Wilson",
+            "tahun_lulus": 2022,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 88,
+                "Pemrograman Lanjut": 85,
+                "Basis Data": 90,
+                "Sistem Operasi": 87,
+                "Pengembangan Web": 92
+            }
+        },
+        {
+            "nama": "David Lee",
+            "tahun_lulus": 2016,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 92,
+                "Machine Learning": 88,
+                "Data Mining": 85,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Ashley Martinez",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Daniel Thompson",
+            "tahun_lulus": 2015,
+            "profil_lulusan": "NSS",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 95,
+                "Forensik Komputer": 92,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        },
+        {
+            "nama": "Olivia Garcia",
+            "tahun_lulus": 2024,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 85,
+                "Pemrograman Lanjut": 90,
+                "Basis Data": 88,
+                "Sistem Operasi": 92,
+                "Pengembangan Web": 87
+            }
+        },
+        {
+            "nama": "Alice Brown",
+            "tahun_lulus": 2019,
+            "profil_lulusan": "ISD",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 90,
+                "Pemrograman Lanjut": 88,
+                "Basis Data": 85,
+                "Sistem Operasi": 82,
+                "Pengembangan Web": 86
+            }
+        },
+        {
+            "nama": "Bob Wilson",
+            "tahun_lulus": 2020,
+            "profil_lulusan": "NSS",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 88,
+                "Forensik Komputer": 85,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 92,
+                "Manajemen Keamanan Informasi": 87
+            }
+        },
+        {
+            "nama": "Carol Garcia",
+            "tahun_lulus": 2018,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 95,
+                "Desain dan Evaluasi Antarmuka": 92,
+                "Desain Eksperimental": 88,
+                "Pemodelan Proses Bisnis": 90,
+                "Test Engineering": 94
+            }
+        },
+        {
+            "nama": "David Thompson",
+            "tahun_lulus": 2021,
+            "profil_lulusan": "DA",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 88,
+                "Machine Learning": 85,
+                "Data Mining": 92,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Emily Martinez",
+            "tahun_lulus": 2017,
+            "profil_lulusan": "ISD",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 95,
+                "Pemrograman Lanjut": 92,
+                "Basis Data": 90,
+                "Sistem Operasi": 88,
+                "Pengembangan Web": 94
+            }
+        },
+        {
+            "nama": "Frank Davis",
+            "tahun_lulus": 2022,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Gina Wilson",
+            "tahun_lulus": 2016,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 92,
+                "Machine Learning": 88,
+                "Data Mining": 85,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Harry Lee",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Irene Thompson",
+            "tahun_lulus": 2015,
+            "profil_lulusan": "NSS",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 95,
+                "Forensik Komputer": 92,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        },
+        {
+            "nama": "Jack Garcia",
+            "tahun_lulus": 2024,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 85,
+                "Pemrograman Lanjut": 90,
+                "Basis Data": 88,
+                "Sistem Operasi": 92,
+                "Pengembangan Web": 87
+            }
+        },
+        {
+            "nama": "Jessica Lim",
+            "tahun_lulus": 2021,
+            "profil_lulusan": "ISD",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 92,
+                "Pemrograman Lanjut": 88,
+                "Basis Data": 90,
+                "Sistem Operasi": 86,
+                "Pengembangan Web": 92
+            }
+        },
+        {
+            "nama": "Eric Tan",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "NSS",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 90,
+                "Forensik Komputer": 88,
+                "Kriptografi": 85,
+                "Pengujian Penetrasi": 92,
+                "Manajemen Keamanan Informasi": 87
+            }
+        },
+        {
+            "nama": "Annie Wong",
+            "tahun_lulus": 2018,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 95,
+                "Desain dan Evaluasi Antarmuka": 92,
+                "Desain Eksperimental": 88,
+                "Pemodelan Proses Bisnis": 90,
+                "Test Engineering": 94
+            }
+        },
+        {
+            "nama": "Brian Chen",
+            "tahun_lulus": 2020,
+            "profil_lulusan": "DA",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 88,
+                "Machine Learning": 85,
+                "Data Mining": 92,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Catherine Martinez",
+            "tahun_lulus": 2017,
+            "profil_lulusan": "ISD",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 95,
+                "Pemrograman Lanjut": 92,
+                "Basis Data": 90,
+                "Sistem Operasi": 88,
+                "Pengembangan Web": 94
+            }
+        },
+        {
+            "nama": "Daniel Davis",
+            "tahun_lulus": 2022,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Elaine Wilson",
+            "tahun_lulus": 2016,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 92,
+                "Machine Learning": 88,
+                "Data Mining": 85,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Felix Lee",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Grace Thompson",
+            "tahun_lulus": 2015,
+            "profil_lulusan": "NSS",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 95,
+                "Forensik Komputer": 92,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        },
+        {
+            "nama": "Henry Garcia",
+            "tahun_lulus": 2024,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 85,
+                "Pemrograman Lanjut": 90,
+                "Basis Data": 88,
+                "Sistem Operasi": 92,
+                "Pengembangan Web": 87
+            }
+        },
+        {
+            "nama": "Ivy Lim",
+            "tahun_lulus": 2022,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 92,
+                "Desain dan Evaluasi Antarmuka": 90,
+                "Desain Eksperimental": 85,
+                "Pemodelan Proses Bisnis": 88,
+                "Test Engineering": 91
+            }
+        },
+        {
+            "nama": "Jacky Tan",
+            "tahun_lulus": 2018,
+            "profil_lulusan": "NSS",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 88,
+                "Forensik Komputer": 85,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 92,
+                "Manajemen Keamanan Informasi": 87
+            }
+        },
+        {
+            "nama": "Karen Wong",
+            "tahun_lulus": 2019,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 90,
+                "Desain dan Evaluasi Antarmuka": 88,
+                "Desain Eksperimental": 85,
+                "Pemodelan Proses Bisnis": 86,
+                "Test Engineering": 89
+            }
+        },
+        {
+            "nama": "Larry Chen",
+            "tahun_lulus": 2020,
+            "profil_lulusan": "DA",
+            "ipk": 3.5,
+            "mata_kuliah": {
+                "Statistika Dasar": 85,
+                "Analisis Data": 80,
+                "Machine Learning": 88,
+                "Data Mining": 82,
+                "Big Data Analytics": 85
+            }
+        },
+        {
+            "nama": "Mandy Martinez",
+            "tahun_lulus": 2017,
+            "profil_lulusan": "ISD",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 95,
+                "Pemrograman Lanjut": 92,
+                "Basis Data": 90,
+                "Sistem Operasi": 88,
+                "Pengembangan Web": 94
+            }
+        },
+        {
+            "nama": "Nancy Davis",
+            "tahun_lulus": 2021,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Oscar Wilson",
+            "tahun_lulus": 2016,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 92,
+                "Machine Learning": 88,
+                "Data Mining": 85,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Pamela Lee",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Quincy Thompson",
+            "tahun_lulus": 2015,
+            "profil_lulusan": "NSS",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 95,
+                "Forensik Komputer": 92,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        },
+        {
+            "nama": "Rachel Garcia",
+            "tahun_lulus": 2024,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 85,
+                "Pemrograman Lanjut": 90,
+                "Basis Data": 88,
+                "Sistem Operasi": 92,
+                "Pengembangan Web": 87
+            }
+        },
+        {
+            "nama": "Samuel Tan",
+            "tahun_lulus": 2022,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 92,
+                "Desain dan Evaluasi Antarmuka": 90,
+                "Desain Eksperimental": 85,
+                "Pemodelan Proses Bisnis": 88,
+                "Test Engineering": 91
+            }
+        },
+        {
+            "nama": "Tina Lim",
+            "tahun_lulus": 2018,
+            "profil_lulusan": "NSS",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 88,
+                "Forensik Komputer": 85,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 92,
+                "Manajemen Keamanan Informasi": 87
+            }
+        },
+        {
+            "nama": "Ulysses Wong",
+            "tahun_lulus": 2019,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 90,
+                "Desain dan Evaluasi Antarmuka": 88,
+                "Desain Eksperimental": 85,
+                "Pemodelan Proses Bisnis": 86,
+                "Test Engineering": 89
+            }
+        },
+        {
+            "nama": "Victoria Chen",
+            "tahun_lulus": 2020,
+            "profil_lulusan": "DA",
+            "ipk": 3.5,
+            "mata_kuliah": {
+                "Statistika Dasar": 85,
+                "Analisis Data": 80,
+                "Machine Learning": 88,
+                "Data Mining": 82,
+                "Big Data Analytics": 85
+            }
+        },
+        {
+            "nama": "William Martinez",
+            "tahun_lulus": 2017,
+            "profil_lulusan": "ISD",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 95,
+                "Pemrograman Lanjut": 92,
+                "Basis Data": 90,
+                "Sistem Operasi": 88,
+                "Pengembangan Web": 94
+            }
+        },
+        {
+            "nama": "Xavier Davis",
+            "tahun_lulus": 2021,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Yvonne Wilson",
+            "tahun_lulus": 2016,
+            "profil_lulusan": "DA",
+            "ipk": 3.8,
+            "mata_kuliah": {
+                "Statistika Dasar": 90,
+                "Analisis Data": 92,
+                "Machine Learning": 88,
+                "Data Mining": 85,
+                "Big Data Analytics": 87
+            }
+        },
+        {
+            "nama": "Zack Lee",
+            "tahun_lulus": 2023,
+            "profil_lulusan": "UI/UX",
+            "ipk": 3.6,
+            "mata_kuliah": {
+                "Pola Desain Antarmuka Pengguna": 88,
+                "Desain dan Evaluasi Antarmuka": 85,
+                "Desain Eksperimental": 80,
+                "Pemodelan Proses Bisnis": 82,
+                "Test Engineering": 86
+            }
+        },
+        {
+            "nama": "Abigail Thompson",
+            "tahun_lulus": 2015,
+            "profil_lulusan": "NSS",
+            "ipk": 3.9,
+            "mata_kuliah": {
+                "Keamanan Jaringan": 95,
+                "Forensik Komputer": 92,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        },
+        {
+            "nama": "Brian Garcia",
+            "tahun_lulus": 2024,
+            "profil_lulusan": "ISD",
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 85,
+                "Pemrograman Lanjut": 90,
+                "Basis Data": 88,
+                "Sistem Operasi": 92,
+                "Pengembangan Web": 87
+            }
+        }
+    ]
+}

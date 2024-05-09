@@ -1,0 +1,19 @@
+{
+    "mahasiswa": [
+        {
+            "nama": "PF",
+            "tahun_masuk": 2018,
+            "ipk": 3.4,
+            "mata_kuliah": {
+                "Algoritma dan Struktur Data": 60,
+                "Pemrograman Lanjut": 60,
+                "Basis Data": 60,
+                "Sistem Operasi": 60,
+                "Pengembangan Web": 87,
+                "Kriptografi": 90,
+                "Pengujian Penetrasi": 88,
+                "Manajemen Keamanan Informasi": 94
+            }
+        }
+    ]
+}
