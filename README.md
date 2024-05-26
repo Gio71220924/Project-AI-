@@ -1,7 +1,13 @@
 # Project-AI-
 Proyek Matkul AI
 
-nb2.py 
+Representasi Pengetahuan : data JSON
+Algoritma : Naive Bayes
 
-data uji : data.json
-data case : uji.json
+Analisis Alumni : Menganalilis isi Data Uji
+nb2 : Menentukan Test size dan Random State yang cocok untuk Model
+
+
+- Code Utama    : nb.py 
+- Data Uji Model      : databaru.json / datalama.json
+- Data Case     : uji.json

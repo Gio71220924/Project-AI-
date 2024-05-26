@@ -4,7 +4,7 @@ from collections import Counter
 import csv
 
 # 1. Membaca data dari file JSON
-with open('alumni.json', 'r') as file:
+with open('databaru.json', 'r') as file:
     data = json.load(file)
 
 # 2. Menghitung jumlah alumni untuk setiap profil lulusan
@@ -63,9 +63,9 @@ else:
     print("Tidak ada data IPK yang tersedia.")
 
 # 8. Menampilkan daftar mata kuliah yang diambil oleh setiap alumni
-print("\nDaftar mata kuliah yang diambil oleh setiap alumni:")
-for alumni in data["alumni"]:
-    print(f"Nama: {alumni['nama']}, Mata Kuliah: {list(alumni['mata_kuliah'].keys())}")
+# print("\nDaftar mata kuliah yang diambil oleh setiap alumni:")
+# for alumni in data["alumni"]:
+#     print(f"Nama: {alumni['nama']}, Mata Kuliah: {list(alumni['mata_kuliah'].keys())}")
 
 # 9. Menghitung rata-rata nilai mata kuliah untuk setiap profil lulusan
 nilai_mata_kuliah = {}
