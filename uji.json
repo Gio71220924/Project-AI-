@@ -5,11 +5,19 @@
             "tahun_masuk": 2018,
             "ipk": 3.7,
             "mata_kuliah": {
-                "Keamanan Jaringan": 95,
-                "Forensik Komputer": 92,
-                "Kriptografi": 90,
-                "Pengujian Penetrasi": 88,
-                "Manajemen Keamanan Informasi": 94
+                "Teknologi Komputer": 74,
+                "Praktikum Teknologi Komputer": 79,
+                "Matematika Teknik": 78,
+                "Logika Matematika": 93,
+                "Jaringan Komputer": 82,
+                "Praktikum Jaringan Komputer": 88,
+                "Algoritma dan Pemrograman": 91,
+                "Praktikum Algoritma dan Pemrograman": 85,
+                "Arsitektur dan Organisasi Komputer": 87,
+                "Statistik": 94,
+                "Struktur Data": 96,
+                "Praktikum Struktur Data": 70,
+                "Infrastruktur LAN": 95
             }
         }
     ]
