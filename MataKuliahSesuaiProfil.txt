@@ -1,0 +1,158 @@
+MataKuliah UI/UX
+
+
+"Interaksi Manusia dan Komputer" :
+"Teknologi Komputer" :
+"Praktikum Teknologi Komputer" :
+"Algoritma dan Pmerograman" :
+"Praktikum Algoritma dan Pemrograman" : 
+"Matematika Diskrit" : 
+"Statistik" :
+"Struktur Data" :
+"Praktikum Struktur Data":
+"Pemrograman Web":
+"Praktikum Pemrograman Web" :
+"Keamanan Komputer" :
+"Rekayasa Perangkat Lunak Berorientasi Objek" :
+"Praktikum Rekayasa Perangkat Lunak Berorientasi Objek" :
+"Pola Desain Antarmuka Pengguna" :
+"Desain Eksperimental " :
+"Desain dan Evaluasi Antarmuka" :
+"Pemodelan Proses Bisnis" :
+"Test Engineering" :
+"Pemrograman Perangkat Bergerak Berbasis Android" :
+"Pemrograman Perangkat Bergerak Berbasis iOS" :
+"Pemrograman Perangkat Bergerak Berbasis Hybrid" :
+"Pemrograman Desktop" :
+"Pemrograman Web Lanjut " :
+"Analisis Data Statistik" :
+"Analisis Proses Bisnis" :
+"Deep Learning" :
+"Digital Humanities" :
+"E-Commerce" :
+"E-Government" :
+"Manajemen Konten Web" :
+"Pemrograman Berorientasi Layanan" :
+"Sistem Informasi Geografis" :
+"Sistem Pakar " :
+"Teknik Animasi" :
+"UX Writing dan Storytelling" :
+"Visualisasi Data" :
+
+
+MataKuliah ISD
+
+
+"Teknologi Komputer" :
+"Praktikum Teknologi Komputer" :
+"Matematika Teknik " :
+"Logika Matematika " :
+"Algoritma dan Pmerograman" :
+"Praktikum Algoritma dan Pemrograman" : 
+"Matematika Diskrit" : 
+"Statistik" :
+"Struktur Data" :
+"Praktikum Struktur Data":
+"Riset Operasi" :
+"Kecerdasan Buatan" :
+"Internet Of Things" :
+"Machine Learning" :
+"Jaringan Syaraf Tiruan" :
+"Knowledge-Based System":
+"Pemrosesan Bahasa Natural":
+"Pemrosesan Citra Digital":
+"Pemrosesan Sinyal Digital":
+"Game Engine":
+"Pemrograman Perangkat Bergerak Berbasis Android" :
+"Pemrograman Perangkat Bergerak Berbasis iOS" :
+"Pemrograman Perangkat Bergerak Berbasis Hybrid" :
+"Pemrograman Desktop" :
+"Pemrograman Web Lanjut " :
+"Algoritma Graf":
+"Analisis Data Statistik ":
+"Competitive Programming":
+"Deep Learning":
+"Desain Game":
+"Digital Humanities":
+"Game Audio":
+"Grafika Game":
+"Kompresi Data":
+"Pemrograman Berorientasi Layanan":
+"Semantic Web ":
+"Sistem Informasi Geografis":
+"Sistem Pakar":
+"Teknik Animasi ":
+"Forensic Text":
+
+
+MataKuliah Database
+
+
+"Teknologi Komputer":
+"Praktikum Teknologi Komputer":
+"Logika Matematika ":
+"Algoritma dan Pemrograman":
+"Praktikum Algoritma dan Pemrograman":
+"Matematika Diskrit ":
+"Arsitektur dan Organisasi Komputer":
+"Statistik":
+"Struktur Data":
+"Praktikum Struktur Data":
+"Sistem Basis Data":
+"Praktikum Sistem Basis Data":
+"Sistem Operasi ":
+"Keamanan Komputer":
+"Pemrograman Perangkat Bergerak Berbasis Android":
+"Pemrograman Perangkat Bergerak Berbasis iOS":
+"Pemrograman Perangkat Bergerak Berbasis Hybrid":
+"Pemrograman Desktop ":
+"Pemrograman Web Lanjut ":
+"Administrasi Basis Data":
+"Data Warehouse":
+"Basis Data Terdistribusi":
+"Keamanan Basis Data":
+"Administrasi Basis Data Non Relasional":
+"Analisis Data Statistik ":
+"Analisis Proses Bisnis ":
+"Deep Learning":
+"E-Commerce":
+"E-Government":
+"Kompresi Data":
+"Manajemen Konten Web ":
+"Pemrograman Berorientasi Layanan":
+"Praktikum Keahlian Khusus - SAP" :
+"Sistem Informasi Geografis":
+"Visualisasi Data":
+
+
+MataKuliah Network 
+
+
+"Teknologi Komputer":
+"Praktikum Teknologi Komputer ":
+"Matematika Teknik":
+"Logika Matematika":
+"Jaringan Komputer ":
+"Praktikum Jaringan Komputer ":
+"Algoritma dan Pemrograman ":
+"Praktikum Algoritma dan Pemrograman":
+"Arsitektur dan Organisasi Komputer":
+"Statistik":
+"Struktur Data":
+"Praktikum Struktur Data":
+"Infrastruktur LAN ":
+"Praktikum Infrastruktur LAN ":
+"Sistem Operasi":
+"Keamanan Komputer ":
+"Internet of Things":
+"Enterprise Network":
+"Cloud Infrastructure ":
+"Pengantar Keamanan Jaringan":
+"Jaringan Nir Kabel ":
+"Otomasi Jaringan":
+"Teknologi WAN ":
+"Keamanan Jaringan":
+"Analisis Data Statistik ":
+"Deep Learning":
+"Pemrograman Berorientasi Layanan":
+"Sistem Informasi Geografis ":
