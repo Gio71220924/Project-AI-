@@ -1,0 +1,21 @@
+{
+    "mahasiswa": [
+        {
+            "nama": "PF",
+            "tahun_masuk": 2018,
+            "ipk": 3.7,
+            "mata_kuliah": {
+                "Teknologi Komputer": 85,
+                "Praktikum Teknologi Komputer": 90,
+                "Matematika Teknik": 79,
+                "Logika Matematika": 92,
+                "Algoritma dan Pemrograman": 82,
+                "Praktikum Algoritma dan Pemrograman": 85,
+                "Matematika Diskrit": 88,
+                "Statistik": 90
+            }
+        }
+    ]
+}
+
+

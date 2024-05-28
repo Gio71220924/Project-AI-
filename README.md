@@ -5,9 +5,8 @@ Proyek Matkul AI
 - Algoritma : Naive Bayes
 
 - Analisis Alumni : Menganalilis isi Data Uji
-- nb2 : Menentukan Test size dan Random State yang cocok untuk Model
 
 
-- Code Utama          : nb.py 
-- Data Uji Model      : databaru.json / datalama.json
-- Data Case           : uji.json
+- Code Utama          : test.py & naive_bayes.py
+- Data Uji Model      : databaru.json / newdata.json
+- Data Case           : mahasiswa 1-4

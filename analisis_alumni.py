@@ -4,7 +4,7 @@ from collections import Counter
 import csv
 
 # 1. Membaca data dari file JSON
-with open('databaru.json', 'r') as file:
+with open('newdata.json', 'r') as file:
     data = json.load(file)
 
 # 2. Menghitung jumlah alumni untuk setiap profil lulusan

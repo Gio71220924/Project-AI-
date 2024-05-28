@@ -1,0 +1,44 @@
+{
+    "mahasiswa": [
+        {
+            "nama": "Gio",
+            "tahun_masuk": 2022,
+            "ipk": 3.58,
+            "mata_kuliah": {
+                "Teknologi Komputer": 77,
+                "Bahasa Indonesia":86,
+                "Pendidikan Agama Kristen":88,
+                "Interaksi Manusia dan Komputer":93,
+                "Praktikum Teknologi Komputer": 90,
+                "Matematika Teknik": 73,
+                "Logika Matematika": 63,
+                "Matematika Diskrit": 72,
+                "Pendidikan Kewarganegaraan":84,
+                "Jaringan Komputer": 88,
+                "Praktikum Jaringan Komputer": 90,
+                "Algoritma dan Pemrograman": 62,
+                "Praktikum Algoritma dan Pemrograman": 72,
+                "Arsitektur dan Organisasi Komputer": 83,
+                "Statistik": 82,
+                "Struktur Data": 73,
+                "Praktikum Struktur Data": 90,
+                "Infrastruktur LAN": 88,
+                "Praktikum Infrastruktur LAN": 89,
+                "Riset Operasi": 62,
+                "Sistem Operasi": 80,
+                "Sistem Basis Data":74,
+                "Praktikum Sistem Basis Data":77,
+                "Pengantar Keamanan jaringan" : 95,
+                "Rekayasa Perangkat Lunak Berbasis Obyek": 75,
+                "Praktikum Rekayasa Perangkat Lunak Berbasis Obyek": 80,
+                "Etika Profesi Teknologi Informasi": 90,
+                "Pendidikan Pancasila" :88,
+                "Pemograman Web" : 77,
+                "Praktikum Pemograman Web": 67,
+                "Keamanan komputer":75,
+                "Kecerdasan Buatan" : 65,
+                "Enterprise Network":95  
+            }
+        }
+    ]
+}
