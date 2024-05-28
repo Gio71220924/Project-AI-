@@ -7,6 +7,7 @@ Proyek Matkul AI
 - Analisis Alumni : Menganalilis isi Data Uji
 
 
-- Code Utama          : test.py & naive_bayes.py
+- Code Utama          : test.py
+- Code Model          : naive_bayes.py
 - Data Uji Model      : databaru.json / newdata.json
 - Data Case           : mahasiswa 1-4
