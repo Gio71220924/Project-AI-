@@ -6,7 +6,7 @@ def print_cantik(hashmap) -> None:
 
 ## Mengambil dataset dari newdata.json
 def get_dataset() -> list:
-    with open("newdata.json", "r") as f:
+    with open("data/newdata.json", "r") as f:
         data = f.read()
         kamus_x = json.loads(data)
     kamus = []

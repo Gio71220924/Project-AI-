@@ -3,7 +3,7 @@ from naive_bayes import *
 def main() -> None:
     dataset : list = get_dataset()
     seperated_dataset : list = seperate_based_on_class(dataset, "profil_lulusan")
-    dataprediski : dict = get_data_prediksi("kasus/mahasiswa2.json")
+    dataprediski : dict = get_data_prediksi("kasus/mahasiswa1.json")
 
     for mahasiswa in dataprediski:
         datauji = mahasiswa["mata_kuliah"]
@@ -15,6 +15,7 @@ def main() -> None:
             if max_val < val:
                 max_val = val
                 kunci = i
+            print(f"{i}\t : {val:.2f}")
         
         print(f"Mahasiswa: {mahasiswa['nama']}, Prediksi: {kunci}")
 
