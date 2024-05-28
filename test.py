@@ -17,7 +17,7 @@ def main() -> None:
                 kunci = i
             print(f"{i}\t : {val:.2f}")
         
-        print(f"Mahasiswa: {mahasiswa['nama']}, Prediksi: {kunci}")
+        print(f"Mahasiswa: {mahasiswa['nama']}, Hasil Prediksi Profil: {kunci}")
 
 if __name__ == "__main__":
     main()
